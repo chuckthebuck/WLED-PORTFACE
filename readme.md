@@ -10,11 +10,11 @@
 
   </p>
 
-# Welcome to WLED! ✨
+# Welcome to PORTFACE WLED! ✨
 
-A fast and feature-rich implementation of an ESP32 and ESP8266 webserver to control NeoPixel (WS2812B, WS2811, SK6812) LEDs or also SPI based chipsets like the WS2801 and APA102!
+A fast and feature-rich implementation of an ESP32 and ESP8266 webserver to control NeoPixel (WS2812B, WS2811, SK6812) LEDs or for massive Ocean Liners like the S.S. American! This version is mostly stable, and has been updated for application season!
 
-Originally created by [Aircoookie](https://github.com/Aircoookie)
+Originally created by [Aircoookie](https://github.com/Aircoookie) , Current fork by Chuckthebuck for posterity due to committing the cardnal sin of testing on prod. Whoops.  
 
 ## ⚙️ Features
 - WS2812FX library with more than 100 special effects  
