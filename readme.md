@@ -79,6 +79,7 @@ If WLED really brightens up your day, you can [![](https://img.shields.io/badge/
 
 
 *Disclaimer:*   
+**THIS IS NOT THE MAIN FORK OF WLED. THIS IS UNMAINTAINED CODE STORAGE, DO NOT USE**
 
 If you are prone to photosensitive epilepsy, we recommended you do **not** use this software.  
 If you still want to try, don't use strobe, lighting or noise modes or high effect speed settings.
